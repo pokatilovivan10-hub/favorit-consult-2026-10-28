@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 705" aria-label="Иллюстрация юриста" role="img">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f3ead8"/><stop offset="1" stop-color="#e5d7be"/></linearGradient>
+ <linearGradient id="j" x1="0" x2="1"><stop stop-color="#4f5759"/><stop offset=".58" stop-color="#727475"/><stop offset="1" stop-color="#454c4e"/></linearGradient>
+ <linearGradient id="h" x1="0" x2="1"><stop stop-color="#42332d"/><stop offset="1" stop-color="#6e5141"/></linearGradient>
+ <linearGradient id="skin" x1="0" x2="1"><stop stop-color="#deb79d"/><stop offset=".55" stop-color="#edc5aa"/><stop offset="1" stop-color="#cfa083"/></linearGradient>
+</defs>
+<circle cx="340" cy="355" r="302" fill="url(#bg)"/>
+<circle cx="340" cy="355" r="256" fill="none" stroke="#d4c39f" stroke-width="2"/>
+<circle cx="340" cy="355" r="208" fill="none" stroke="#d9c6a4" stroke-width="2"/>
+<circle cx="340" cy="355" r="165" fill="none" stroke="#d9c6a4" stroke-width="2"/>
+<path d="M116 705c9-141 62-225 157-246l51-28 63 5 67 30c83 36 122 115 136 239Z" fill="url(#j)"/>
+<path d="M247 449l90 92-72 131-58-188Z" fill="#394246"/>
+<path d="M419 445l-81 95 68 133 58-198Z" fill="#4a5153"/>
+<path d="M298 436l34 66 40-64 29 38-63 169-70-168Z" fill="#f7f4ee"/>
+<path d="M294 425v-78h94v77l-47 66Z" fill="url(#skin)"/>
+<path d="M223 290c-10-66-10-175 81-198 104-27 161 31 166 121 3 53-16 160-43 191l-30 24-10-154-138-11-13 157c-23-24-41-71-43-107Z" fill="url(#h)"/>
+<ellipse cx="341" cy="277" rx="100" ry="140" fill="url(#skin)"/>
+<path d="M236 270c-9-96 24-148 96-160 93-16 133 39 139 125-35-10-64-36-79-63-33 40-82 70-156 98Z" fill="url(#h)"/>
+<path d="M240 239c-10 73-2 146 23 194-42-20-54-125-39-187Z" fill="#4a382f"/>
+<path d="M440 215c12 77 8 146-15 207 41-34 57-125 38-196Z" fill="#5b4135"/>
+<path d="M286 266q22-11 46 0M361 267q24-12 42 0" stroke="#63473e" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M295 286q13 8 26 0M371 287q12 8 25 0" stroke="#6a564c" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<path d="M344 290l-10 37 15 3" stroke="#c59079" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M312 354q28 16 53 0" stroke="#a56f68" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</svg>
